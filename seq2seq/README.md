@@ -3,8 +3,6 @@ The data contained in the data folder is not the full training dataset. The full
 http://opus.nlpl.eu/OpenSubtitles-v2018.php
 The three datasets used were en-id, es-id and bs-id datasets for train, eval and dev respectively.
 
-Model:
-A pre-trained model is available in the VM at: /mnt/data/data-gpu/advaiths_workspace/punc_model/.
 
 Notebook: ./notebooks/Punctuator_Recibrew.ipynb
 This notebook contains code for both training and decoding/inference of the seq2seq punctuator model.
