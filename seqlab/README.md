@@ -6,9 +6,7 @@ Model:
 A pre-trained model is included in the models folder in this repository.
 
 
-Note: These scripts require that the Nexus_reborn CRF library from:
-https://gitlab.com/kata-ai/research/nexus-reborn/-/tree/master/nexus_reborn/models/seqlab
-
+Note: These scripts are dependent on an external CRF library.
 Scripts:
 
 data_processing.py:
